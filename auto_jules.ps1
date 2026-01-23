@@ -12,5 +12,5 @@
     },
     "requirePlanApproval": false,
     "automationMode": "AUTOMATION_MODE_UNSPECIFIED",
-    "title": "gemini_command.md Markdown 完全自動実行"
+    "title": "gemini_command.md Markdown 2 完全自動実行"
   }'
