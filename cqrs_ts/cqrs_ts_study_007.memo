@@ -1,1 +1,0 @@
-第7章はCQRSの最小形の実装。Command（更新）とQuery（参照）を分離し、Handlerで処理の流れを整理、QueryServiceは副作用なくデータを返す基本構造を体験する。

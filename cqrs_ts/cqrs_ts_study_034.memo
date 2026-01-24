@@ -1,1 +1,0 @@
-第34章はAPI設計を解説。CommandはPOST、QueryはGETとする方針や、RFC9457によるエラー統一、OpenAPI活用など、迷わないための設計型を詳しく紹介。
