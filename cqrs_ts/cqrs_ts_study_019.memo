@@ -1,0 +1,1 @@
+第19章はQueryServiceの責務。副作用ゼロを原則とし、更新や外部連携を行わず、ReadRepositoryから画面用DTOを返すだけの設計と実装例を解説。

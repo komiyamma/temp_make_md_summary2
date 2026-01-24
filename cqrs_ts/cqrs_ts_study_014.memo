@@ -1,0 +1,1 @@
+第14章はWrite側の永続化抽象化（Repository）を扱う。ドメインとインフラの分離（DIP）により、HandlerをDB実装から守る方法を解説。InMemory実装で体験する。

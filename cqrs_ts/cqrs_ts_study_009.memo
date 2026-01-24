@@ -1,0 +1,1 @@
+第9章はドメインの超入門。Order、OrderItem、Moneyの定義を通じてユビキタス言語を整理し、EntityとValueObjectの実装、KISS原則に基づく最小設計を解説。
