@@ -1,0 +1,1 @@
+Windows環境でのTypeScript開発の最小セットアップ手順を解説。Node.js、VS Code、ESLint、Vitest等の導入から自動整形の設定までを網羅する。
