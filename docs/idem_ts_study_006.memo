@@ -1,1 +1,0 @@
-Safeは読み取り専用で、Idempotentは複数回実行しても結果が同じ性質を指す。GETは両方の性質を持つが、PUTやDELETEはIdempotentのみである。
