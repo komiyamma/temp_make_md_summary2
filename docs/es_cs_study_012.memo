@@ -1,1 +1,0 @@
-イベントの中身（Payload）と付帯情報（Metadata）の役割分担と設計ルールを解説。JSON保存時のEnvelope設計や、標準化（CloudEvents）の考慮点について学ぶ。

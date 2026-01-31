@@ -1,1 +1,0 @@
-作成系ユースケースを「Load・Decide・Append」の型で実装する手順を解説。CartCreatedイベントを例に、イベント設計、集約の実装、UseCase層の責務分担を学ぶ。

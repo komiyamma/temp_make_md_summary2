@@ -1,1 +1,0 @@
-イベントをSQLiteに永続化するEventStoreの実装手順を解説。テーブル設計、WALモード等のパフォーマンス設定、expectedVersionを用いた競合検出を学ぶ。
