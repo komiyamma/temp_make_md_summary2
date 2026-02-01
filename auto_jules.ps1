@@ -55,7 +55,7 @@ $prUrl = $sessionInfo.output.pullRequest.url
 
 if (-not $prUrl) {
     Write-Warning "PR URL が取得できませんでした。gh コマンドで最新の PR を探します。"
-    $prUrl = gh pr list --repo "komiyamma/temp_make_md_summary1" --limit 1 --json url --jq ".[0].url"
+    $prUrl = gh pr list --repo "komiyamma/temp_make_md_summary2" --limit 1 --json url --jq ".[0].url"
 }
 
 Write-Host "🛠️ PR 承認とマージを実行します: $prUrl" -ForegroundColor Cyan
