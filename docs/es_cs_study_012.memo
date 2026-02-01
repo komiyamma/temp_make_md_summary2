@@ -1,0 +1,1 @@
+イベントのPayloadとMetadataの設計指針を解説。事実はPayload、追跡情報はMetadataに分離する原則、将来の仕様変更に強いデータ構造を学ぶ。
