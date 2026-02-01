@@ -1,0 +1,1 @@
+読み取り専用のQuery API実装手法を解説。Projectionを返すエンドポイント構築、DTO設計、Minimal APIでのバリデーションとOpenAPI活用法を紹介。
