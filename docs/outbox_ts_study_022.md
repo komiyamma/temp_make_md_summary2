@@ -69,6 +69,7 @@
 
 ## 22-A-3 ざっくりアーキ図（動きの道筋）🧭✨
 
+<!-- img: outbox_ts_study_022_final_architecture.png -->
 ```text
 [Confirm Order API]
    |

@@ -15,6 +15,7 @@
 
 ## 例：注文イベント🛒📦
 
+<!-- img: outbox_ts_study_018_lanes.png -->
 * `OrderPaid`（支払い完了💳✅）が先に届く
 * その後に `OrderPlaced`（注文確定🧾✅）が届く
 

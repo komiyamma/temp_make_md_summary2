@@ -170,6 +170,7 @@ export type OrderConfirmedV2 = {
 
 ## 20.6.3 Consumer 側で Upcaster を作る 🧙‍♀️🔄
 
+<!-- img: outbox_ts_study_020_upcaster.png -->
 ```ts
 type AnyOrderConfirmed =
   | OutboxEvent<OrderConfirmedV1>

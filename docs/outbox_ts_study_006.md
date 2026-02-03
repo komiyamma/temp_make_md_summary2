@@ -21,6 +21,8 @@ Transactional Outboxの典型の登場人物は、だいたいこの4人セッ�
 「教材としてまず描ける」最小構成はこれ👇
 （矢印＝データの流れ、点線＝非同期っぽい雰囲気）
 
+
+<!-- img: outbox_ts_study_006_architecture.png -->
 ```mermaid
 flowchart LR
   U[ユーザー/外部] --> A[アプリ/API（Sender）🧑‍🍳]

@@ -340,6 +340,7 @@ PinoやWinstonにトレースIDを混ぜる仕組み（ログ相関）が整っ�
 
 ## パネルおすすめ構成🧩
 
+<!-- img: outbox_ts_study_021_observability.png -->
 * backlog（pending/processing/failed）📚🚦
 * oldest age（秒）🕰️
 * publish success / failed（分あたり）✅❌

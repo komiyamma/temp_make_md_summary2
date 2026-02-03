@@ -92,6 +92,7 @@ pnpm add -D typescript tsx vitest @types/node
 mkdir src tests scripts
 ```
 
+<!-- img: outbox_ts_study_008_structure.png -->
 この教材では、ざっくりこう役割分担するよ👇
 
 * `src/`：アプリ本体（後で Outbox 実装が入る）📦
