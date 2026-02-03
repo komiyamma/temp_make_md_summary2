@@ -1,0 +1,1 @@
+第8章はWindowsとVS Codeでの開発環境構築。Node.js、pnpm、TypeScript5.9、Vitestを用いた最小構成プロジェクトの作成と、実行・テスト・ビルドの自動化設定を学ぶ。
