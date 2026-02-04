@@ -1,0 +1,1 @@
+利用者への約束となる公開範囲（Public Surface）を定義し、public-api.tsやpackage.jsonのexportsで入口を制限することで、変更に強い設計を作る。
