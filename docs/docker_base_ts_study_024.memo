@@ -1,0 +1,1 @@
+コンテナ内`localhost`の仕様とホスト接続法を解説。コンテナ自身を指す`localhost`の罠、`host.docker.internal`の活用、接続トラブルの解決手順を詳述しています。
