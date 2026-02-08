@@ -1,0 +1,1 @@
+APIとDBを同時起動するCompose設定を解説。`healthcheck`による起動順序制御、PostgreSQL 18の永続化パス変更、Node.jsからの接続手順と注意点を詳述しています。

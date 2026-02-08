@@ -1,0 +1,1 @@
+Docker Compose環境変数の管理手法を解説。`.env`と`environment`の違い、優先順位、`secrets`でのパスワード保護、トラブル解決策を詳述しています。
