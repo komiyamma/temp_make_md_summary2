@@ -1,0 +1,1 @@
+tsconfig.jsonは必要最低限の設定から始め、Node実行前提ならnodenextを採用すべきだ。sourceMapを有効化し、デバッグ効率を高めることも重要である。

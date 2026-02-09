@@ -1,0 +1,1 @@
+TypeScriptも型や出力JSが変わるため、プロジェクト単位での固定が必須だ。devDependenciesとローカルtscの利用で、再現性を確保すべきである。
