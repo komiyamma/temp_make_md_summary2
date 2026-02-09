@@ -1,1 +1,0 @@
-Docker Composeの名前解決を解説。IP直書きの危険性、サービス名通信、カスタムネットワークとDNS、`host.docker.internal`利用法を詳述。

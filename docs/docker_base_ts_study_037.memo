@@ -1,1 +1,0 @@
-Docker Composeにおける起動順序と準備完了待ちの問題解決法を解説。`depends_on`の限界、`healthcheck`による依存制御、アプリ側のリトライ戦略を詳述しています。
