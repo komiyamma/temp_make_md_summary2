@@ -1,0 +1,1 @@
+Nodeの版選びは安定したActive LTS (v24) を基本とし、Current (v25) は検証用とする。Dockerでは node:24-bookworm-slim の利用が推奨される。

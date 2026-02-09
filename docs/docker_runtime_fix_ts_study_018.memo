@@ -1,0 +1,1 @@
+Composeを利用することで起動手順をYAMLに固定し、docker compose upで開発環境を再現可能にする。node_modulesはvolumeで隔離し、WindowsではWSL上の配置が推奨される。

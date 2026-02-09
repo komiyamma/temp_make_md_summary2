@@ -1,0 +1,1 @@
+NodeにおけるESMとCJSの判別は拡張子やpackage.jsonのtypeで行われる。TypeScriptではmodule設定をnodenextにし、Nodeの挙動に合わせるのが基本である。
