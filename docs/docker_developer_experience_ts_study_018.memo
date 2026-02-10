@@ -1,0 +1,1 @@
+Docker Composeのプロファイル機能やhealthcheckを活用してDB統合テスト環境を構築し、Vitestで実際のDBを用いたテストを自動実行・初期化する手法。
