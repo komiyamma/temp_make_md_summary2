@@ -1,1 +1,0 @@
-TypeScript開発には、tsc -wとnode --watchでdistを実行する堅実な方法と、tsx watchで直接実行する高速な方法がある。目的や段階に応じて適切なルートを選択すべきだ。

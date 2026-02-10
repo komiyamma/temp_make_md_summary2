@@ -1,1 +1,0 @@
-最小かつ再現性の高いDockerfileを作成するには、安定版のnode:24-bookworm-slimをベースにし、npm ciで依存を固定導入する構成が基本となる。

@@ -1,1 +1,0 @@
-.devcontainer/devcontainer.json の配置により、VS Codeから即座にコンテナ開発環境を起動できる。Dockerfileと連携し、環境構築の再現性を高めることが可能だ。

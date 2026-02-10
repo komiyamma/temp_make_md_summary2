@@ -1,1 +1,0 @@
-package.jsonのscriptsは、開発用のdev、ビルド用のbuild、本番用のstartに統一すべきだ。開発時はtsxで高速化し、本番はビルド済みコードを実行する構成が推奨される。
