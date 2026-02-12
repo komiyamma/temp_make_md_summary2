@@ -1,0 +1,1 @@
+公開後の安定運用に不可欠なヘルスチェックの3種類（startup/liveness/readiness）の役割と違い、Expressでの実装手法、Cloud Run設定方法を詳解。
