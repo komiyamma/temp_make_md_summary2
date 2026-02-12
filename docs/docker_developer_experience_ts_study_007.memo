@@ -1,1 +1,0 @@
-WindowsでのDocker開発において、ソースをWSL2側に配置してbind mountし、node_modulesをnamed volumeで隔離して、高速かつ安定した環境を構築する手法。

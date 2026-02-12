@@ -1,1 +1,0 @@
-ESLint v9とFlat Configに対応したtypescript-eslintを導入し、推奨設定を適用してTypeScriptコードの品質を確保するためのLint環境と実行コマンドを整備。

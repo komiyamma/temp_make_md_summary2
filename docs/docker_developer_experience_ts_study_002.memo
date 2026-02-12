@@ -1,1 +1,0 @@
-開発用と本番用でDocker環境を厳密に分離し、Multi-stage buildやComposeのoverride機能を活用して、開発速度向上と本番の安全性を両立する手法を解説。

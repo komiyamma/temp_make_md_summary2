@@ -1,1 +1,0 @@
-tsxを用いた高速なWatch実行とtscによる型チェックをconcurrentlyで並列化し、開発速度と安全性を両立させる快適なTypeScript実行環境の構築。
