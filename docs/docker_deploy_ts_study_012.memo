@@ -1,1 +1,0 @@
-機密情報をDockerイメージやGit、ログから完全に排除するための具体的対策、およびBuildKitやSecret Managerを用いた安全なSecrets運用手法を詳説。

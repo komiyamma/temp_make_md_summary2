@@ -1,1 +1,0 @@
-GitHub ActionsからGoogle Cloudへの認証において、長期キーを使わずOIDCとWorkload Identity Federationを用いた安全な認証方法をハンズオンで詳説。

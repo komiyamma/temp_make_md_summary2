@@ -1,1 +1,0 @@
-環境変数を用いた設定の外出し（12Factor App）の重要性と、TypeScriptでの実装例、DockerおよびCloud Runでの具体的な設定方法について解説。

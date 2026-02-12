@@ -1,1 +1,0 @@
-GitHubへのpushをトリガーに、Dockerビルド、Artifact Registryへのpush、Cloud Runへのデプロイまでを自動化するCI/CDパイプラインの構築手順を詳説。

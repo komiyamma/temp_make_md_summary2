@@ -1,1 +1,0 @@
-SBOM（ソフトウェア部品表）の概要と必要性、Syftを使った生成手順、GitHub Actionsでの自動生成と保存、Dependency Graphへの反映について詳説。
