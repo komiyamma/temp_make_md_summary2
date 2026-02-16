@@ -1,1 +1,0 @@
-React開発の土台となるNode.jsとnpmのセットアップ。Vite 7推奨のNode 22/24を使用し、package.jsonの役割や依存管理の基本を習得して環境を固める。

@@ -1,1 +1,0 @@
-Firebase SDKを導入し、firebase.tsで初期化を行う手順。initializeAppで接続し、画面に初期化成功を表示して、次の開発への土台を完成させる。
