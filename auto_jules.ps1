@@ -9,7 +9,7 @@ $BASE_URL = "https://jules.googleapis.com/v1alpha"
 # 1. セッションの開始
 Write-Host "🚀 Jules セッションを開始します..." -ForegroundColor Cyan
 $body = @{
-    prompt = "このリポジトリの gemini_command.md の内容を実行してください"
+    prompt = "このリポジトリの gemini_command.md の内容を実行してください。質問は一切不要。最後まで実行せよ。"
     sourceContext = @{
         source = "sources/github/komiyamma/temp_make_md_summary2"
         githubRepoContext = @{ startingBranch = "main" }
